@@ -4,3 +4,7 @@ Panda3D is an open-source,completely free-to-use engine for realtime 3D games, v
 
 ## A curated list of awesome resources for using Panda3D
 [https://github.com/mhcrnl/awesome-panda3d](https://github.com/mhcrnl/awesome-panda3d)
+
+## Youtube videos:
+Panda3D tutorial camera(the code is in this repo):
+[https://www.youtube.com/watch?v=t6RsbOMrPQk](https://www.youtube.com/watch?v=t6RsbOMrPQk)
